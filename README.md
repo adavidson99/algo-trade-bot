@@ -1,2 +1,2 @@
 # algo-trade-bot
-An algorithmic trading program that automatically executes buy and sell orders on the market 
+An algorithmic trading program that recommends and logs buy and sell orders on the market 
