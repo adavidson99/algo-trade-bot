@@ -1,5 +1,5 @@
 # algo-trade-bot
-An algorithmic trading program that recommends and logs buy and sell orders on the market 
+An algorithmic trading scripts that recommends and logs buy and sell orders on the Australian and New Zealand stock markets
 
 ## Instructions
 
